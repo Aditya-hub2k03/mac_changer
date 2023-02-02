@@ -31,6 +31,3 @@ The code is primarily tested in Kali pycharm and on python2.
 keywords:
 eth0 = ethernet connected interface
 wlan0 = wifi adapter connected interface
-
-
-/////////
